@@ -16,4 +16,4 @@ Ensure you have **Python 3.x** installed, then install the required dependencies
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-## Uses datasets like PIMA Indian Diabetes Dataset
+# Uses datasets like PIMA Indian Diabetes Dataset
